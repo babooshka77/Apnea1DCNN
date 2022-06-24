@@ -1,6 +1,6 @@
 # Apnea1DCNN
 Hi!
-There are several snippets codes which I've used in this project. 
+These are several snippets codes which I've used in this project. 
 My final project was to classify Apnea events from Non-Apnea Events based on ECG Signal recordings published by PhysioNET as a part of Computer in Cardiology Challenge 
 (CinC 2000). 
 
