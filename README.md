@@ -8,3 +8,5 @@ One Dimensinal Convolutional Neural Network (1DCNN) was used to classify Apnea a
 
 Data Preprocessing techniques used includes: 
 Normalization (MinMaxScaler), Signal Filtering with IIR Notch Filter and BPF with fc=0.5Hz and Empyrical Mode Decomposition (EMD).
+
+For further explanation, please refer to the .PDF file of my final project report written in Indonesia.
